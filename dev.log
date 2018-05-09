@@ -1,2 +1,7 @@
 git checkout -b dev
 创建本地分支
+
+[root@test2 stardust]# git push -u origin dev
+Branch dev set up to track remote branch dev from origin.
+Everything up-to-date
+
