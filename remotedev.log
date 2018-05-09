@@ -1,3 +1,5 @@
 [root@test2 stardust]# git branch --set-upstream remotedev origin/devlocal
 Branch remotedev set up to track remote branch devlocal from origin.
 让本地新建分支remotedev和远程devlocal分支关联命令
+
+git push
