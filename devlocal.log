@@ -1,1 +1,4 @@
+[root@test2 stardust]# git checkout -b devlocal origin/devlocal
+Branch devlocal set up to track remote branch devlocal from origin.
+Switched to a new branch 'devlocal'
 localdev
